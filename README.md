@@ -99,12 +99,7 @@ Capturing moments and telling stories through lenses. Stills. Motion. Both.
 
 ## ◈ GITHUB STATS
 
-<div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=v-nne&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=c084fc&icon_color=ff6b6b&text_color=ffffff&border_color=8b2fc9&hide_border=false&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-nne&layout=compact&theme=radical&bg_color=0d0d0d&title_color=c084fc&text_color=ffffff&border_color=8b2fc9" />
-
-</div>
 
 <div align="center">
 
